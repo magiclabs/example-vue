@@ -2,7 +2,7 @@
 
 This is a simple Vue application with [Magic](https://magic.link/) integration to allow Passwordless login.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%magiclabs%2Fexample-vue&env=VUE_APP_MAGIC_KEY)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fmagiclabs%2Fexample-vue&env=VUE_APP_MAGIC_KEY)
 
 # Quickstart
 
